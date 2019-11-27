@@ -4,7 +4,7 @@ spring:
     - test
 ---
 server:
-  port: 2005
+  port: 2004
   context-path: /
 spring:
   profiles: dev
